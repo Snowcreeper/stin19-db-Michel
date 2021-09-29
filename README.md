@@ -3,10 +3,10 @@
 ## Link zu den Beschreibungen:
 
 ### Aufgabe 9: 
-[Task15](task15.md)
+[Task15](ex15.md)
 
 ### Aufgabe 12: 
-[Task12](task12.md)
+[Task12](ex12.md)
 
 ### Aufgabe 13: 
-[Task13](task13.md)
+[Task13](ex13.md)
